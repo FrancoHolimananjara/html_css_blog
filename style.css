@@ -1,0 +1,105 @@
+body{
+    background-color: #282c34;
+    margin: 10px 80px;
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+nav h1{
+    color:orangered;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div p{
+    color: white;
+}
+nav .link{
+    margin-top: 30px;
+}
+nav .link a{
+    text-decoration: none;
+    color: gray;
+    margin-right: 10px;
+}
+div .home .left{
+    max-width: 50%;
+}
+div .home .right {
+    max-width: 50%;
+}
+.home{
+    display: flex;
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+img{
+    width: 450px;
+    
+}
+div .left .auteur{
+    color: cadetblue;
+    font-size: small;
+    font-family: cursive;
+}
+div .distribution .left {
+    max-width: 50%;
+}
+
+div .distribution .right {
+    max-width: 50%;
+}
+div .titre{
+    color: #ca0035;
+}
+div .ito{
+    color: #de4815;
+}
+div .ito1 {
+    color: #74ba24;
+}
+div .ito2 {
+    color: #264073;
+}
+.distribution {
+    display: flex;
+    margin-top: 20px;
+}
+
+div .distribution1 .left {
+    max-width: 50%;
+}
+
+div .distribution1 .right {
+    max-width: 50%;
+}
+
+div .titre1 {
+    color: #ca0035;
+}
+
+div .ito3 {
+    color: #1793d1;
+}
+
+div .ito4 {
+    color: #d70751;
+}
+
+div .ito5 {
+    color: #cc0000;
+}
+
+.distribution1 {
+    display: flex;
+    margin-top: 20px;
+}
+.foot{
+    border: solid;
+    margin-top: 50px;
+}
+.fb img{
+    margin-left: 780px;
+    width: 20px;
+    height: 20px;
+}
